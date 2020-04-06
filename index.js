@@ -1,14 +1,14 @@
 const inquirer = require("inquirer")
 const fs = require("fs")
-function writeToFile(fileName, data) {
+function writeToFile(fileName, data) {[
     title: "Portfolio2";
-    description:  "Second version of my portfolio for Northwestern Coding Bootcamp";
-    contributors:  "Jill Westerfelhaus";
+    description: "Second version of my portfolio for Northwestern Coding Bootcamp";
+    contributors: "Jill Westerfelhaus";
     tech: "HTML, CSS and Bootstrap";
     buildstatus: "Build status is complete.";
-    license:  "License is to be determined";
+    license: "License is to be determined";
     installation: "No";
-    email: "jillwesthaus@gmail.com"
+    email: "jillwesthaus@gmail.com"]
 }
 function init() {
     inquirer.prompt([
@@ -54,7 +54,7 @@ function init() {
         }
 
     ])
-    .then() 
+        .then()
 }
 
 init();
