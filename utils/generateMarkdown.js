@@ -1,8 +1,13 @@
-function generateMarkdown(data) {
+const genResponse = {
+
+
+generateMarkdown(res,response) {
   return `
-# ${data.title}
+# ${response.title}
 
 `;
 }
+}
+module.exports = genResponse;
 
-module.exports = generateMarkdown;
+

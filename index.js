@@ -1,13 +1,23 @@
 const inquirer = require("inquirer")
 const fs = require("fs")
+const apiCall = require("./utils/api")
 //changed writeToFile to Write File, added generateMarkdown.js
-function writeFile("generateMarkdown.js", data) {
-    author:  "name",
-    email:  "email",
-    avatar: "avatar-url"
+//answers to go in an object
+function writeFile(data) {
+    fs.writeFile("README.md", data, 
+    function (err) {if (err) 
+        {return console.log (err)}
+        console.log ("Success!")
+    }
+    )
 }
 function init() {
     inquirer.prompt([
+        {
+            type: "input",
+            message: "What is your GitHub user name?",
+            name: "name"
+        },
         {
             type: "input",
             message: "What is the project title?",
@@ -54,9 +64,10 @@ function init() {
             name: "email"
         }
     ])
-        .then function(response) {
-            ///error or success message here?
-        }
+        .then (function(response) {
+            let userName = response.name 
+            apiCall.getUser(userName,response)
+        })
 }
 
 init();
