@@ -48,10 +48,10 @@ function init() {
             type: "input",
             message: "What email can I send additional questions to?",
             name: "email"
-        },
+        }
 
     ])
-        .then function(response);
+        .then function(response) 
 }
 
 init();
