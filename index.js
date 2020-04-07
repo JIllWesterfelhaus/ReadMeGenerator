@@ -1,6 +1,10 @@
 const inquirer = require("inquirer")
 const fs = require("fs")
-function writeToFile(fileName, data) {
+//changed writeToFile to Write File, added generateMarkdown.js
+function writeFile("generateMarkdown.js", data) {
+    author:  "name",
+    email:  "email",
+    avatar: "avatar-url"
 }
 function init() {
     inquirer.prompt([
@@ -49,9 +53,10 @@ function init() {
             message: "What email can I send additional questions to?",
             name: "email"
         }
-
     ])
-        .then function(response) 
+        .then function(response) {
+            ///error or success message here?
+        }
 }
 
 init();
