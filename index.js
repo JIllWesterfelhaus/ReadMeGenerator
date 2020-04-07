@@ -28,6 +28,12 @@ function init() {
             message: "What is your project description?",
             name: "description"
         },
+        
+        {
+            type: "input",
+            message: "What is the motivation for this project?",
+            name: "motivation"
+        },
         {
             type: "input",
             message: "Who are the contributors to your project?",
