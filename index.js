@@ -64,6 +64,11 @@ function init() {
             message: "Have any installations been done from this project?",
             name: "installation"
         },
+        {
+        type: "input",
+        message: "Are there any credits for this project?",
+        name: "credits"
+    },
          {
             type: "input",
             message: "What email can I send additional questions to?",
