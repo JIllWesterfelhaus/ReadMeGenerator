@@ -47,7 +47,7 @@ function init() {
          {
             type: "input",
             message: "What is the build status of this project?",
-            name: "buildstatus"
+            name: "build"
         },
          {
             type: "input",
@@ -62,7 +62,7 @@ function init() {
          {
             type: "input",
             message: "Have any installations been done from this project?",
-            name: "installation"
+            name: "installations"
         },
         {
         type: "input",
