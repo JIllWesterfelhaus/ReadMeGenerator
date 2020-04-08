@@ -16,23 +16,23 @@ const genResponse = {
 
 <li><a href="#description">Description</a></li>
 
-<li><a href="motivation">Motivation</a></li>
+<li><a href="#motivation">Motivation</a></li>
 
-<li><a href="contributors">Contributors</a></li>
+<li><a href="#contributors">Contributors</a></li>
 
-<li><a href="tech">Tech Used</a></li>
+<li><a href="#tech">Tech Used</a></li>
 
-<li><a href="build">Build Status</a></li>
+<li><a href="#build">Build Status</a></li>
 
-<li><a href="license">License</a></li>
+<li><a href="#license">License</a></li>
 
 <li><a href="badges">Badges</a></li>
 
-<li><a href="installations">Installations</a></li>
+<li><a href="#installations">Installations</a></li>
 
-<li><a href="credits">Credits</a></li>
+<li><a href="#credits">Credits</a></li>
 
-<li><a href="contact">Contact for Further Information</a></li>
+<li><a href="#contact">Contact for Further Information</a></li>
 <br>
 
 <h2 id="title">Project Title</h2>
