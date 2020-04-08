@@ -34,10 +34,10 @@
 <p><input type="text" name="title" value="">Portfolio2</p>
 
 <h2 id="description">Description</h2>
-<p><input type="text" name= "description" value="">This is a second version of my portfolio for NU's Coding Bootcamp.</p>
+<p><input type="text" name= "description" value="">This is the second version of my portfolio for Northwestern University's Coding Bootcamp.</p>
 
 <h2 id="motivation">Motivation</h2>
-<p><input type="text" name="motivation" value="">This is an assignment for NU's Coding Bootcamp.</p>
+<p><input type="text" name="motivation" value="">This is an assignment for NU's Coding Bootcamp.  The purpose is to show our progress in this class.</p>
 
 <h2 id="contributors">Contributors</h2>
 <p>Contributor or contributors for this project are <input type="text" name="contributors" value="">Jill Westerfelhaus</p>
@@ -58,8 +58,8 @@
 <p><input type="text" name="installations" value="">No</p>
 
 <h2 id="credits">Credits</h2>
-<p><input type="text" name="credits" value="">I would like to thank Alex BAilon, Bikram Shankar, Zaki Khan and Kyle Resurreccion for the amazing work they did coding the Fylte! app.</p>
+<p><input type="text" name="credits" value="">I would like to thank Alex Bailon, Bikram Shankar, Zaki Khan and Kyle Ressurreccion for the amazing work they did coding the Fylte! app.</p>
 
 <h2 id="contact">Contact for Additional Questions</h2>
-<p>Please feel free to email <input type="text" name="email" value="">null if you have additional questions.  Thank you.</p>
+<p>Please feel free to email <input type="text" name="email" value="">jillwesthaus@gmail.com if you have additional questions.  Thank you.</p>
 
