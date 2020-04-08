@@ -69,7 +69,7 @@ const genResponse = {
 <p>Please feel free to email <input type="text" name="email" value="">${response.email} if you have additional questions.  Thank you.</p>
 
 `
-fs.writeFile("README.md",userInfo,function(err) {
+fs.writeFile("markdown/README.md",userInfo,function(err) {
   if (err) {
     return console.log(err)
   }
