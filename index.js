@@ -1,16 +1,9 @@
 const inquirer = require("inquirer")
-const fs = require("fs")
+
 const apiCall = require("./utils/api")
 //changed writeToFile to Write File, added generateMarkdown.js
 //answers to go in an object
-function writeFile(data) {
-    fs.writeFile("README.md", data, 
-    function (err) {if (err) 
-        {return console.log (err)}
-        console.log ("Success!")
-    }
-    )
-}
+
 function init() {
     inquirer.prompt([
         {

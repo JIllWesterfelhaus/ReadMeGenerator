@@ -4,9 +4,11 @@ const api = {
   getUser(username,response) {
     axios.get(`https://api.github.com/users/${username}`)
     .then(function(res)  {
-      genMd.generateMarkdown (res,response)
+     
 
-      console.log(res.data);
+      console.log(res.data.email);
+      console.log(res.data.avatar_url);
+      genMd.generateMarkdown(res,response)
     }).catch(function(error) {
       if (error) {
         console.log (error)
@@ -18,6 +20,6 @@ const api = {
   }
   
 };
-api.getUser("JillWesterfelhaus")
+
 module.exports = api;
 
