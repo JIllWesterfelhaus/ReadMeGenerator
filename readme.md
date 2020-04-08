@@ -2,7 +2,7 @@
 ## Title
 Title of this project is Good ReadMe Generator.
 ## Description
-This generates a Read Me based on a user's GitHub profile and user input.
+This generates a Read Me based on a user's GitHub profile and user input.  The generated ReadMe is in the Markdown folder. 
 ## Motivation
 This is an assignment for Northwestern University's Coding Bootcamp.
 ## Contributors
