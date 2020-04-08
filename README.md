@@ -1,6 +1,6 @@
 
-# Portfolio2
-<img width = "100" height = "100" src="https://avatars1.githubusercontent.com/u/59777724?v=4">
+# stuff
+<img width = "100" height = "100" src="https://avatars0.githubusercontent.com/u/49396?v=4">
 <h2>
 
 
@@ -31,34 +31,34 @@
 <br>
 
 <h2 id="title">Project Title</h2>
-<p><input type="text" name="title" value="">Portfolio2</p>
+<p><input type="text" name="title" value="">stuff</p>
 
 <h2 id="description">Description</h2>
-<p><input type="text" name= "description" value="">This is the second version of my portfolio for Northwestern University's Coding Bootcamp.</p>
+<p><input type="text" name= "description" value="">things</p>
 
 <h2 id="motivation">Motivation</h2>
-<p><input type="text" name="motivation" value="">This is an assignment for NU's Coding Bootcamp.  The purpose is to show our progress in this class.</p>
+<p><input type="text" name="motivation" value="">class</p>
 
 <h2 id="contributors">Contributors</h2>
-<p>Contributor or contributors for this project are <input type="text" name="contributors" value="">Jill Westerfelhaus</p>
+<p>Contributor or contributors for this project are <input type="text" name="contributors" value="">jill</p>
 
 <h2 id="tech">Tech Used</h2>
-<p>Tech used for this project is <input type="text" name="tech" value="">HTML, CSS, Bootstrap</p>
+<p>Tech used for this project is <input type="text" name="tech" value="">html</p>
 
 <h2 id="build">Build Status</h2>
-<p>Build status for this project is <input type="text" name="build" value="">Completed</p>
+<p>Build status for this project is <input type="text" name="build" value="">done</p>
 
 <h2 id="license">License</h2>
-<p>License for this project is <input type="text" name="license" value ="">Unlicense</p>
+<p>License for this project is <input type="text" name="license" value ="">unlicense</p>
 
 <h2 id="badges">Badges</h2>
-<p>Badge or badges for this project are <input type="text" name="badges" value="">None</p>
+<p>Badge or badges for this project are <input type="text" name="badges" value="">none</p>
 
 <h2 id="installations">Installations</h2>
-<p><input type="text" name="installations" value="">No</p>
+<p><input type="text" name="installations" value="">no</p>
 
 <h2 id="credits">Credits</h2>
-<p><input type="text" name="credits" value="">I would like to thank Alex Bailon, Bikram Shankar, Zaki Khan and Kyle Ressurreccion for the amazing work they did coding the Fylte! app.</p>
+<p><input type="text" name="credits" value="">yes</p>
 
 <h2 id="contact">Contact for Additional Questions</h2>
 <p>Please feel free to email <input type="text" name="email" value="">jillwesthaus@gmail.com if you have additional questions.  Thank you.</p>
