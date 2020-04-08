@@ -1,6 +1,6 @@
 const inquirer = require("inquirer")
 
-const apiCall = require("./utils/api")
+const apiCall = require("./api")
 //changed writeToFile to Write File, added generateMarkdown.js
 //answers to go in an object
 
