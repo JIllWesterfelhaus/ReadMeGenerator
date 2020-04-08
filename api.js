@@ -1,5 +1,5 @@
 const axios = require("axios");
-const genMd = require("./generateMarkdown")
+const genMd = require("./markdown/generateMarkdown")
 const api = {
   getUser(username,response) {
     axios.get(`https://api.github.com/users/${username}`)

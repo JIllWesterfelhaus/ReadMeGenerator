@@ -1,5 +1,5 @@
 
-# Portfolio2
+# stuff
 <img width = "100" height = "100" src="https://avatars1.githubusercontent.com/u/59777724?v=4">
 <h2>
 
@@ -31,35 +31,35 @@
 <br>
 
 <h2 id="title">Project Title</h2>
-<p><input type="text" name="title" value="">Portfolio2</p>
+<p><input type="text" name="title" value="">stuff</p>
 
 <h2 id="description">Description</h2>
-<p><input type="text" name= "description" value="">Yes</p>
+<p><input type="text" name= "description" value="">stuff</p>
 
 <h2 id="motivation">Motivation</h2>
-<p><input type="text" name="motivation" value="">Yes</p>
+<p><input type="text" name="motivation" value="">stuff</p>
 
 <h2 id="contributors">Contributors</h2>
-<p>Contributor or contributors for this project are <input type="text" name="contributors" value="">Yes</p>
+<p>Contributor or contributors for this project are <input type="text" name="contributors" value="">stuff</p>
 
 <h2 id="tech">Tech Used</h2>
-<p>Tech used for this project is <input type="text" name="tech" value="">Yes</p>
+<p>Tech used for this project is <input type="text" name="tech" value="">stuff</p>
 
 <h2 id="build">Build Status</h2>
-<p>Build status for this project is <input type="text" name="build" value="">Yes</p>
+<p>Build status for this project is <input type="text" name="build" value="">stuff</p>
 
 <h2 id="license">License</h2>
-<p>License for this project is <input type="text" name="license" value ="">Yes</p>
+<p>License for this project is <input type="text" name="license" value ="">stuff</p>
 
 <h2 id="badges">Badges</h2>
-<p>Badge or badges for this project are <input type="text" name="badges" value="">Yes</p>
+<p>Badge or badges for this project are <input type="text" name="badges" value="">stuff</p>
 
 <h2 id="installations">Installations</h2>
-<p><input type="text" name="installations" value="">Yes</p>
+<p><input type="text" name="installations" value="">stuff</p>
 
 <h2 id="credits">Credits</h2>
-<p><input type="text" name="credits" value="">Yes</p>
+<p><input type="text" name="credits" value="">stuff</p>
 
 <h2 id="contact">Contact for Additional Questions</h2>
-<p>Please feel free to email <input type="text" name="email" value="">Yes if you have additional questions.  Thank you.</p>
+<p>Please feel free to email <input type="text" name="email" value="">stuff if you have additional questions.  Thank you.</p>
 
