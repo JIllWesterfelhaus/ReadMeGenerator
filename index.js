@@ -1,9 +1,8 @@
+//set up inquirer
 const inquirer = require("inquirer")
-
+//set up api call
 const apiCall = require("./api")
-//changed writeToFile to Write File, added generateMarkdown.js
-//answers to go in an object
-
+//set up object for answers to go into
 function init() {
     inquirer.prompt([
         {
@@ -68,6 +67,8 @@ function init() {
             name: "email"
         }
     ])
+
+    //make api call
         .then (function(response) {
             let userName = response.name 
             apiCall.getUser(userName,response)

@@ -1,4 +1,4 @@
-
+//creating questions that will gather user input to generate readme
 var fs = require("fs")
 const genResponse = {
 
@@ -69,6 +69,7 @@ const genResponse = {
 <p>Please feel free to email <input type="text" name="email" value="">${response.email} if you have additional questions.  Thank you.</p>
 
 `
+//write file to markdown folder
 fs.writeFile("markdown/README.md",userInfo,function(err) {
   if (err) {
     return console.log(err)
