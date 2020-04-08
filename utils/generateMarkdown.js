@@ -66,7 +66,7 @@ const genResponse = {
 <p><input type="text" name="credits" value="">${response.credits}</p>
 
 <h2 id="contact">Contact for Additional Questions</h2>
-<p>Please feel free to email <input type="text" name="email" value="">${res.data.email} if you have additional questions.  Thank you.</p>
+<p>Please feel free to email <input type="text" name="email" value="">${response.email} if you have additional questions.  Thank you.</p>
 
 `
 fs.writeFile("README.md",userInfo,function(err) {
