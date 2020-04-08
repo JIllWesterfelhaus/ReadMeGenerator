@@ -7,50 +7,60 @@ const genResponse = {
 <h1>ReadMe</h1>
 <h2>Table of Contents</h2>
 <ul>
-<li>Project Title</li>
-<li>Description</li>
-<li>Motivation</li>
-<li>Contributors</li>
-<li>Tech Used</li>
-<li>Build Status</li>
-<li>License</li>
-<li>Badges</li>
-<li>Installations</li>
-<li>Credits</li>
-<li>Contact for Further Information</li>
+<li><a href="#title">Project Title</a></li>
+
+<li><a href="#description">Description</a></li>
+
+<li><a href="motivation">Motivation</a></li>
+
+<li><a href="contributors">Contributors</a></li>
+
+<li><a href="tech">Tech Used</a></li>
+
+<li><a href="build">Build Status</a></li>
+
+<li><a href="license">License</a></li>
+
+<li><a href="badges">Badges</a></li>
+
+<li><a href="installations">Installations</a></li>
+
+<li><a href="credits">Credits</a></li>
+
+<li><a href="contact">Contact for Further Information</a></li>
 <br>
 
-<h2>Project Title</h2>
+<h2 id="title">Project Title</h2>
 <p>The title of this project is <input type="text" name="title" value="">.<p>
 
-<h2>Description</h2>
+<h2 id="description">Description</h2>
 <p><input type="text" name= "description" value="">.</p>
 
-<h2>Motivation</h2>
+<h2 id="motivation">Motivation</h2>
 <p>The motivation for this project is <input type="text" name="motivation" value="">.</p>
 
-<h2>Contributors</h2>
+<h2 id="contributors">Contributors</h2>
 Contributor or contributors for this project are <input type="text" name="contributors" value="">.</p>
 
-<h2>Tech Used</h2>
+<h2 id="tech">Tech Used</h2>
 <p>Tech used for this project is <input type="text" name="tech" value="">.</p>
 
-<h2>Build Status</h2>
+<h2 id="build">Build Status</h2>
 <p>Build status for this project is <input type="text" name="build" value="">.</p>
 
-<h2>License</h2>
+<h2 id="license">License</h2>
 <p>License for this project is <input type="text" name="license" value ="">.</p>
 
-<h2>Badges</h2>
+<h2 id="badges">Badges</h2>
 Badge or badges for this project are <input tyoe="text" name="badges" value="">.</p>
 
-<h2>Installations</h2>
+<h2 id="installations">Installations</h2>
 Installations done from this project are <input type="text" name="installations" value="">.</p>
 
-<h2>Credits</h2>
+<h2 id="credits">Credits</h2>
 <p>We wish to thank <input type="text" name="credits" value="">.</p>
 
-<h2>Contact for Additional Questions</h2>
+<h2 id="contact">Contact for Additional Questions</h2>
 <p>Please feel free to email <input type="text" name="email" value=""> if you have additional questions.  Thank you.</p>
 
 
