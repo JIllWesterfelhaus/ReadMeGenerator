@@ -26,7 +26,7 @@ const genResponse = {
 
 <li><a href="#license">License</a></li>
 
-<li><a href="badges">Badges</a></li>
+<li><a href="#badges">Badges</a></li>
 
 <li><a href="#installations">Installations</a></li>
 
