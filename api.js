@@ -1,6 +1,6 @@
 //create axios call
 const axios = require("axios");
-//cons to generate markdown
+//const to generate markdown
 const genMd = require("./markdown/generateMarkdown")
 const api = {
   getUser(username,response) {
